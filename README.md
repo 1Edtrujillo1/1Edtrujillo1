@@ -1,11 +1,14 @@
 # Hi, I´m Ed 🤖🦾
 
+![](https://www.dropbox.com/s/vvfiemofwuc3ioy/font_presentation.jpg?dl=0&raw=1)
+
 ### Find me on <a href="https://github.com/1Edtrujillo1"><img align="left" width="150" height="150" src="https://www.dropbox.com/s/los348zocisifeq/guyGIT.gif?dl=0&raw=1"></a>
-- Learning ... 
 
 ---
 
-<details>
+- Learning ... 
+
+- <details>
   <summary>:zap:My Developped Products</summary>
   
   1. ✅ R Package:
@@ -14,9 +17,13 @@
 
   2. ✅ AImagination Personal App:
 
-<a href="https://ed.aijetv.com/"><img align="center" width="150" height="150" src="https://www.dropbox.com/s/bcjubx8tdoy8uvk/AImagination.png?dl=0&raw=1"></a>
+<a href="https://ed.aijetv.com/"><img align="center" width="150" height="150" src="https://www.dropbox.com/s/ubtps4wlc2gl9ah/AImagination.png?dl=0&raw=1"></a>
 
 </details>
 
+
+---
+
+:)
 
 
