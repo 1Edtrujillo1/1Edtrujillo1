@@ -1,6 +1,6 @@
 # Hi, I´m Ed 🤖🦾
 
-![](https://www.dropbox.com/s/4odm3de8trrm1ih/font_presentation_edit.png?dl=0&raw=1)
+![](https://www.dropbox.com/s/m00fwz360fhequ0/font_presentation_edit.png?dl=0&raw=1)
 
 ### Find me on <a href="https://github.com/1Edtrujillo1"><img align="left" width="150" height="150" src="https://www.dropbox.com/s/los348zocisifeq/guyGIT.gif?dl=0&raw=1"></a>
 
