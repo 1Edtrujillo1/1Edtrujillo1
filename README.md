@@ -15,7 +15,7 @@
 
 I´m a shiny developer with more than 2 years of experience developing end-to-end projects. Along with a real interest in generating insights by finding and transforming different patterns into back-end & front-end applications that simplify and automate businesses from startups to big companies. Examples of successful own products are my R package [udeploy](https://github.com/1Edtrujillo1/udeploy), a personalized [docker file](https://hub.docker.com/r/1edtrujillo1/aimagination), and my web application [AImagination](http://ed.aijetv.com/). Moreover, my day-to-day work tools that I enjoy working with are R, python, docker, AWS & git.
 
-<br>
+<br><br>
 
 ## Overview
 ---
@@ -105,6 +105,11 @@ I´m a shiny developer with more than 2 years of experience developing end-to-en
 ---
 <br>
 
+<details>
+  <summary>🧬<b> My Abilities</b>:</summary>
+<br>
+<!--START_SECTION:abilities-->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=1Edtrujillo1&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
 
 <br><br>
@@ -114,6 +119,11 @@ I´m a shiny developer with more than 2 years of experience developing end-to-en
 <br><br>
 
 <a href="https://github.com/1Edtrujillo1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1Edtrujillo1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!--END_SECTION:abilities-->
+</details>  
+
+<br>
 
 ## Contact
 ---
