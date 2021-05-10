@@ -1,26 +1,32 @@
 # Hi, I´m Ed 🤖🦾
 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/1Edtrujillo1)
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
+<a href="https://b0glfezn7qzsdncbsrlpzq-on.drv.tw/www.resume.com/RESUME.html"><img src="
+https://www.dropbox.com/s/xh0tedub7pattzx/cv.svg?dl=0&raw=1" alt="Curriculum Vitae"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/1Edtrujillo1)
+<a href="https://github.com/1Edtrujillo1?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/1Edtrujillo1?style=flat-square&color=black&logo=github">
+  </a>
 
 <p align='center'><img src="https://www.dropbox.com/s/m00fwz360fhequ0/font_presentation_edit.png?dl=0&raw=1"></p>
 
+
 * [About Me](#about-me)
 * [Overview](#overview)
-* [Abilities](#abilities)
+* [GitHub Stats](#gitHub-stats)
 * [Contact](#contact)
 
+<br>
+
 ## About Me
----
+
 <a href="https://github.com/1Edtrujillo1"><img align="left" width="146" height="165" src="https://www.dropbox.com/s/los348zocisifeq/guyGIT.gif?dl=0&raw=1"></a> 
 
-I´m a shiny developer with more than 2 years of experience developing end-to-end projects. Along with a real interest in generating insights by finding and transforming different patterns into back-end & front-end applications that simplify and automate businesses from startups to big companies. Examples of successful own products are my R package [udeploy](https://github.com/1Edtrujillo1/udeploy), a personalized [docker file](https://hub.docker.com/r/1edtrujillo1/aimagination), and my web application [AImagination](http://ed.aijetv.com/). Moreover, my day-to-day work tools that I enjoy working with are R, python, docker, AWS & git.
-
-<br><br>
-
-## Overview
----
+I´m a **shiny developer** with more than 2 years of experience developing end-to-end projects. Along with a real interest in **generating insights** by finding and transforming different patterns into back-end & front-end applications that simplify and **automate** businesses from startups to big companies. Examples of successful own products are my R package [udeploy](https://github.com/1Edtrujillo1/udeploy), a personalized [docker file](https://hub.docker.com/r/1edtrujillo1/aimagination), and my web application [AImagination](http://ed.aijetv.com/). Moreover, my day-to-day work tools that I enjoy working with are *R, python, docker, AWS & git*.
 
 <br>
+
+## Overview
 
 <details>
   <summary>💻<b> My Developped Products</b>:</summary>
@@ -41,6 +47,8 @@ I´m a shiny developer with more than 2 years of experience developing end-to-en
 
 <!--END_SECTION:products-->
 </details>  
+
+<br>
 
 <details>
   <summary>🛠<b> Skills</b>:</summary>
@@ -99,14 +107,10 @@ I´m a shiny developer with more than 2 years of experience developing end-to-en
   
 <br>
 
----
-
-## Abilities
----
-<br>
+## GitHub Stats
 
 <details>
-  <summary>🧬<b> My Abilities</b>:</summary>
+  <summary>🧬<b> My Stats</b>:</summary>
 <br>
 <!--START_SECTION:abilities-->
 
@@ -126,8 +130,10 @@ I´m a shiny developer with more than 2 years of experience developing end-to-en
 <br>
 
 ## Contact
+
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/1edtrujillo1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:act.jetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p> 
+
 ---
-
-:)s
-
-
