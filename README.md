@@ -1,9 +1,6 @@
 # Hi, I´m Ed 🤖🦾
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-<a href="https://b0glfezn7qzsdncbsrlpzq-on.drv.tw/www.resume.com/RESUME.html">
-    <img src="https://www.dropbox.com/s/xh0tedub7pattzx/cv.svg?dl=0&raw=1">
-  </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/1Edtrujillo1)
 <a href="https://github.com/1Edtrujillo1?tab=repositories">
     <img src="https://badges.pufler.dev/repos/1Edtrujillo1?style=flat-square&color=black&logo=github">
